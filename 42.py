@@ -7,7 +7,7 @@ c1=c1+1
 for j in s2L:
 c2=c2+1
 if(c1<c2):
-print('largest string is:')
+print('largest string is:'
 print(s2)
 elif(c1==c2):
 print('both are equal')
