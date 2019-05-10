@@ -1,4 +1,4 @@
-b=raw_input('enter string')
+c=raw_input('enter string')
 count=0
 count1=0
 for i in string:
