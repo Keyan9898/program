@@ -2,7 +2,7 @@ s=input("enter the first string")
 s1=input('enter the second string')
 c1=0
 c2=0
-for i in s1:
+for g in s1:
 c1=c1+1
 for j in s2L:
 c2=c2+1
