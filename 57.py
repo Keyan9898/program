@@ -1,6 +1,6 @@
 struct eleCount 
 {
-int element;
+int ele;
 int count;
 };
 struct eleCount temp[];
